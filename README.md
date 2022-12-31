@@ -17,3 +17,12 @@ Overview-
    and takes the output vector and maps the image state to the vector.
 3. Keeps learning based on rewards recieved , on actions implemented per
    state. 
+
+## Object detection
+![](./assets/snaps.png)
+
+## Demo
+<!-- ![](./assets/trim-steep.mov) -->
+<video width="640" height="480" controls>
+  <source src="./assets/trim-steep.mov" type="video/mp4">
+</video>
